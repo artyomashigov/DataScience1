@@ -6,6 +6,6 @@ Our findings show that PCA is really helpful for avoiding overfitting when we do
 
 - :bar_chart: [The data](https://raw.githubusercontent.com/artyomashigov/DataScience1/main/PCA_data.csv)
 - :orange_book: [Jupyter notebook](https://github.com/artyomashigov/DataScience1/blob/main/homework_artyom_ashigov.ipynb)
-- :white_check_mark: [Tasks](https://github.com/artyomashigov/DataScience1/blob/main/homework_artyom_ashigov.ipynb)
+- :white_check_mark: [Tasks](https://github.com/artyomashigov/DataScience1/blob/main/task.pdf)
 
 Email: artyomashigov@gmail.com
